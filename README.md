@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=190&section=header&text=Muhammad%20Hasnain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🔐%20Cybersecurity%20Enthusiast%20|%20🛡️%20Ethical%20Hacker%20Learner%20|%20💻%20Tech%20Explorer&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/137241476?v=4" width="150" alt="Muhammad Hasnain Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/182476350?v=4" width="150" alt="Muhammad Hasnain Profile Picture"/>
 </p>
 
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0ea5e9?style=for-the-badge&logo=hackaday&logoColor=white)  
